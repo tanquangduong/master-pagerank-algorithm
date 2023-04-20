@@ -11,6 +11,12 @@ Master PageRank Algorithm
 
 
 ## ✅ PageRank Algorithm
+The PageRank algorithm was initially used by Google to rank the search results of a user query.
+It generates a number that quantifies the importance of search results in the context of 
+the query the user has executed. 
+This was designed by two Ph.D. students, Larry Page and Sergey Brin, 
+at Stanford in the late 1990s, who also went on to start Google. \
+What we will do in this notebook:
 - Simulate webpage
 - Simulate network
 - Plot network connection
